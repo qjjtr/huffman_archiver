@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror -Wimplicit-fallthrough -g CMakeFiles/archiver.dir/archiver.cpp.o CMakeFiles/archiver.dir/args_parser.cpp.o CMakeFiles/archiver.dir/bit_stream.cpp.o CMakeFiles/archiver.dir/huffman.cpp.o CMakeFiles/archiver.dir/trie.cpp.o -o ../archiver 
